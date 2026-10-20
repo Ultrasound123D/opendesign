@@ -1,6 +1,10 @@
-# opendesign
+<p align="center">
+  <img src="img/icon.png" width="160" alt="أيقونة opendesign" />
+</p>
 
-**وكيل تصميم بالذكاء الاصطناعي تحادثه — فيُصمّم لك فعلياً.**
+<h1 align="center">opendesign</h1>
+
+<p align="center" dir="rtl"><em>وكيل تصميم بالذكاء الاصطناعي تحادثه — فيُصمّم لك فعلياً.</em></p>
 
 opendesign هو تطبيق دردشة على طراز Codex/opencode متصل بخادم تصميم عبر بروتوكول MCP (Model Context Protocol). تصف الواجهة التي تريدها، فيخطط الوكيل ويستدعي أدوات MCP ويبني التصميم الحقيقي داخل [OpenFigma](https://github.com/Ultrasound123D/openfigma) — بينما ترى مباشرة **ماذا يفكّر، ومتى يخطط، وأي أدوات يستخدم**.
 

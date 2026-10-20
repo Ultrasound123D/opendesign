@@ -1,6 +1,10 @@
-# opendesign
+<p align="center">
+  <img src="img/icon.png" width="160" alt="opendesign icon" />
+</p>
 
-**An AI design agent you chat with — it designs for real.**
+<h1 align="center">opendesign</h1>
+
+<p align="center"><em>An AI design agent you chat with — it designs for real.</em></p>
 
 opendesign is a Codex/opencode-style chat application wired to a [Model Context Protocol](https://modelcontextprotocol.io) (MCP) design server. You describe a UI, the agent plans, calls MCP tools and builds the actual design inside [OpenFigma](https://github.com/Ultrasound123D/openfigma) — while you watch **what it is thinking, when it is planning, and which tools it is using**, live.
 
